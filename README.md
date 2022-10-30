@@ -1,6 +1,6 @@
 - 👋 Hello, I’m @MargotMarchais
-- 👀 I am a senior data analyst @Bouygues Telecom, a leading telco company in France. The languages and tools I use daily are SQL, R and Tableau.
-- 🌱 I am using Github as a way to learn and experiment new programming languages, like Python.
+- 👀 I am a senior data analyst @Bouygues Telecom, a leading telco company in France. At work, I use mostly SQL and Tableau to collect, analyze and visualize data.
+- 🌱 I am using Github as a way to refresh my R skills and experiment new programming languages, like Python.
 - 📫 Feel free to contact me on Linkedin
 
 <!---
