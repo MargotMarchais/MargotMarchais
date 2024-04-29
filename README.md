@@ -1,5 +1,5 @@
 - 👋 Hello, I’m @MargotMarchais
-- 👀 I am a senior data analyst @Bouygues Telecom, a leading telco company in France. At work, I use mostly SQL and Tableau to retrieve, analyze and visualize data.
+- 👀 I am a lead data analyst @Bouygues Telecom, a leading telco company in France. At work, I use mostly SQL and Tableau to retrieve, analyze and visualize data.
 - 🌱 I am using Github as a way to expand my programming skills in R and Python. You may get more info about my coding side projects here: https://margot-marchais-maurice.webflow.io/
 - 📫 Feel free to contact me on Linkedin !
 
